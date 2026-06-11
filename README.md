@@ -66,9 +66,9 @@ I designed a stateful, directed computational graph using **LangGraph** and **GP
 ## 📸 Dashboard Visuals
 *(Screenshots of the Agentic Triage UI in action)*
 
-![UI Overview]("assets/dashboard.png")
+![UI Overview](assets/dashboard.png)
 
-![Agent Execution]("assets/agent_running.png")
+![Agent Execution](assets/agent_running.png)
 
 ---
 
